@@ -14,7 +14,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 	}
-	private void bb() {
+	private void cc() {
 		// TODO Auto-generated method stub
 
 	}
