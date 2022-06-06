@@ -10,12 +10,5 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 	}
-	private void gen() {
-		// TODO Auto-generated method stub
-
-	}
-	private void cc() {
-		// TODO Auto-generated method stub
-
-	}
+	
 }
