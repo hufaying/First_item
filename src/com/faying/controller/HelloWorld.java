@@ -10,4 +10,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 	}
+	private void aa() {
+		// TODO Auto-generated method stub
+
+	}
 }
