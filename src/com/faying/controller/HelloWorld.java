@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("xxxxx");
 		System.out.println(">>>>>");
 	}
-	private void bb() {
+	private void cc() {
 		// TODO Auto-generated method stub
 
 	}
