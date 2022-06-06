@@ -6,12 +6,9 @@ public class HelloWorld {
 		System.out.println("xxxxx");
 		System.out.println(">>>>>");
 	}
-	private void aa() {
+	private void bb() {
 		// TODO Auto-generated method stub
 
 	}
-	private void gen() {
-		// TODO Auto-generated method stub
-
-	}
+	
 }
